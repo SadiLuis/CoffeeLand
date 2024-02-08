@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  
+  h1, h2 {
+    font-family: 'Abril Fatface', cursive;
+  }
+
+
+  

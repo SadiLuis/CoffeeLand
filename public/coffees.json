@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Capucchino",
+      "imagen": "/cappucchino.svg",
+      "precio": 4.00,
+      "detalle": "Disfruta de una experiencia única con nuestro Capucchino. Este café italiano clásico combina a la perfección un espresso fuerte con una capa cremosa de leche vaporizada y espuma. Su perfil de sabor equilibrado y suave te transportará a las cafeterías de Italia.",
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "nombre": "Expresso",
+      "imagen": "/expresso.svg",
+      "precio": 4.50,
+      "detalle": "Experimenta la intensidad y el sabor puro con nuestro Expresso. Este café corto y concentrado ofrece una explosión de sabores ricos y robustos. Ideal para los amantes del café fuerte que buscan una dosis de energía pura",
+      "rate": 4.2
+    },
+    {
+      "id": 3,
+      "nombre": "Macchiato",
+      "imagen": "/macchiato.svg",
+      "precio": 2.99,
+      "detalle": "Sumérgete en la simplicidad sofisticada de nuestro Macchiato. Un espresso suave con una mancha de espuma de leche, creando una armonía perfecta entre la fuerza del café y la suavidad láctea. Una delicia para los paladares que buscan equilibrio",
+      "rate": 3.0
+    },
+    {
+      "id": 4,
+      "nombre": "Chocolatte",
+      "imagen": "https://i.pinimg.com/564x/39/c4/02/39c4023528b33e2da7a84f76ed427f60.jpg",
+      "precio": 1.99,
+      "detalle": "Descubre el placer reconfortante de nuestro Chocolatte. La combinación indulgente de chocolate y café te envuelve en una experiencia deliciosa. La dulzura del chocolate se mezcla elegantemente con la intensidad del café, creando una bebida irresistible",
+      "rate": 4.5
+    },
+    {
+      "id": 5,
+      "nombre": "Cold Coco Coffee",
+      "imagen": "https://i.pinimg.com/564x/f9/95/70/f995700712b9bfeb58f7738099188b9e.jpg",
+      "precio": 3.99,
+      "detalle": "Refréscate con nuestro Cold Coco Coffee, una fusión refrescante de café frío y el encanto del coco. Este brebaje único te transportará a playas tropicales con cada sorbo. Ideal para los amantes del café que buscan algo fresco y exótico. Puedes sumar cualquier topincs a elección de nuestro almacén",
+      "rate": 3.5
+    },
+    {
+      "id": 6,
+      "nombre": "Donuts Coffee",
+      "imagen": "https://i.pinimg.com/564x/fe/5e/54/fe5e54f129f8a61accaf834b8803b6f3.jpg",
+      "precio": 1.00,
+      "detalle": "Eleva tu experiencia cafetera con nuestro Donuts Coffee. Acompañado de esponjosos donuts recién horneados, este combo ofrece la fusión perfecta de sabores dulces y la intensidad del café. Sumérgete en la armonía de la suavidad y el crujido con cada sorbo y bocado.",
+      "rate": 4.5
+    },
+    {
+      "id": 7,
+      "nombre": "Browning Chocolatte",
+      "imagen": "https://i.pinimg.com/564x/7f/8d/43/7f8d430797c13563246e87886c8c4492.jpg",
+      "precio": 1.50,
+      "detalle": "Acompaña tu momento de café con nuestro Browning Chocolatte, una deliciosa combinación de chocolate oscuro y aperitivos exquisitos. Experimenta la fusión de lo dulce y lo salado mientras disfrutas de cada sorbo y mordisco. Un capricho indulgente para los amantes de los sabores intensos",
+      "rate": 4.5
+    },
+    {
+      "id": 8,
+      "nombre": "Coffe MilkShakes Mango with Dulce de Leche",
+      "imagen": "https://i.pinimg.com/564x/28/90/3f/28903fa9949d795384fe0d9964f7d7a9.jpg",
+      "precio": 2.50,
+      "detalle": "Prueba la explosión tropical de nuestro Coffe MilkShakes Mango with Dulce de Leche. La mezcla única de mango refrescante y la dulzura del dulce de leche complementa perfectamente el café, creando una experiencia de sabor vibrante y deliciosa",
+      "rate": 4.2
+    },
+    {
+      "id": 9,
+      "nombre": "Coffe MilkShakes Dulce de Leche",
+      "imagen": "https://i.pinimg.com/564x/3e/0e/7f/3e0e7fa8d96245b3dafbdcde8402b22b.jpg",
+      "precio": 2.50,
+      "detalle": "Déjate tentar por la indulgencia de nuestro Coffe MilkShakes Dulce de Leche. La suavidad del dulce de leche se encuentra con la intensidad del café en esta deliciosa creación. Perfecto para aquellos que buscan un toque dulce en su café.",
+      "rate": 4.9
+    },
+    {
+      "id": 10,
+      "nombre": "Coffe Vainilla",
+      "imagen": "https://i.pinimg.com/564x/4e/cd/1a/4ecd1a763640073c4095febc35fff733.jpg",
+      "precio": 2.50,
+      "detalle": "Sumérgete en el placer indulgente de nuestro Café de Vainilla y descubre por qué es una elección favorita entre los amantes del café que buscan una experiencia única y reconfortante. ¡Cada sorbo es una celebración de sabor y elegancia!",
+      "rate": 4.9
+    }
+  ]
+}
